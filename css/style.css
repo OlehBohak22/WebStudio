@@ -895,7 +895,7 @@ img {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, 14%);
+  transform: translate(-50%, 2%);
   width: 288px;
   height: 623px;
   background: #fcfcfc;
@@ -1101,6 +1101,7 @@ img {
   .modal {
     width: 408px;
     height: 584px;
+    transform: translate(-50%, 14%);
   }
 
   .modal-input {
@@ -1109,7 +1110,6 @@ img {
 
   .modal-textarea {
     width: 360px;
-    height: ;
   }
 }
 
