@@ -247,7 +247,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/images1x/hero-mobile.jpg);
+    url(../images/images1x-mob/hero-mobile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -259,7 +259,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/images2x/hero-mobile@2x.jpg);
+      url(../images/images2x-mob/hero-mobile@2x.jpg);
   }
 }
 
